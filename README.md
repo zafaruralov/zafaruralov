@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zafar Uralov
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning React
+- 👀 I’m interested in AI, Rust, everything related CS
+- 🌱 I’m currently working JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @uralovzafar on telegram
 
